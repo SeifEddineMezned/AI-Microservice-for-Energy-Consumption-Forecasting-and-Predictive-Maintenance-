@@ -73,20 +73,6 @@ python main.py
 
 ### Making API Requests
 
-#### Using the API Examples Script
-
-I did provide an example script to demonstrate API usage:
-
-```bash
-python api_examples.py
-```
-
-This will:
-- Get a 7-day forecast for TGBT
-- Get a 14-day forecast for AC
-- Compare forecasts for all devices
-- Generate visualization plots
-
 #### Using cURL
 
 You can also use cURL to make API requests:
