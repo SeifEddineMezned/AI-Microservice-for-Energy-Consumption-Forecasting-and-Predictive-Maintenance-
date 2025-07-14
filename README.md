@@ -31,6 +31,10 @@ This project is an energy consumption forecasting system that predicts future en
 
 1. Clone the repository
 
+```bash
+git clone https://github.com/SeifEddineMezned/AI-Microservice-for-Energy-Consumption-Forecasting-and-Predictive-Maintenance-.git
+cd AI-Microservice-for-Energy-Consumption-Forecasting-and-Predictive-Maintenance-
+```
 2. Install dependencies:
 
 ```bash
